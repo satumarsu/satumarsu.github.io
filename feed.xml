@@ -3,12 +3,37 @@
     <title>Satu Muurinen</title>
     <link href="https://satumuurinen.com/feed.xml" rel="self" />
     <link href="https://satumuurinen.com" />
-    <updated>2026-01-08T21:41:10+02:00</updated>
+    <updated>2026-03-18T21:25:32+02:00</updated>
     <author>
         <name>Satu</name>
     </author>
     <id>https://satumuurinen.com</id>
 
+    <entry>
+        <title>Autopsia tyttöjen välisestä ystävyydestä - UPCOMING</title>
+        <author>
+            <name>Satu</name>
+        </author>
+        <link href="https://satumuurinen.com/autopsia-tyttoejen-vaelisestae-ystaevyydestae-upcoming.html"/>
+        <id>https://satumuurinen.com/autopsia-tyttoejen-vaelisestae-ystaevyydestae-upcoming.html</id>
+        <media:content url="https://satumuurinen.com/media/posts/16/Juliste_ig_edit.jpg" medium="image" />
+
+        <updated>2026-03-18T21:23:56+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://satumuurinen.com/media/posts/16/Juliste_ig_edit.jpg" alt="" />
+                    Semiköyhä Salaseura Evita Aaltonen, Satu Muurinen, Clarissa Rosi, Roosa Vuokkola support us:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://satumuurinen.com/media/posts/16/Juliste_ig_edit.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center"><span style="color: #740ccd;">Semiköyhä Salaseura</span> Evita Aaltonen, Satu Muurinen, Clarissa Rosi, Roosa Vuokkola</p>
+<p class="align-center"><span style="color: #740ccd;">support us: </span></p>
+<p class="align-center">https://mesenaatti.me/4195/autopsia-tyttojen-valisesta-ystavyydesta-nayttamoteos/</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Päässäni on koira, 2025</title>
         <author>
@@ -235,38 +260,6 @@
             <![CDATA[
                     <p><img src="https://satumuurinen.com/media/posts/7/totuuksia-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center"><span class="p"><span style="color: #740ccd;">Directing</span> Annika Miettinen<br><span style="color: #740ccd;">Screenwriting</span> Julia Matinnniemi, Rusul al Nassar<br><span style="color: #740ccd;">Cinematography</span> Nadia Farghaly<br><span style="color: #740ccd;">Sound design</span> Laura Torkkola<br><span style="color: #740ccd;">Editing</span> Julia Matinniemi<br><span style="color: #740ccd;">Set design</span> Hanna Erämaja<br><span style="color: #740ccd;">Costume design</span> Satu Muurinen<br><span style="color: #740ccd;">MUAH</span> Sara Pettersson<br><span style="color: #740ccd;">Original music </span>Kasimir Kemppainen<br><span style="color: #740ccd;">Production </span>Aamu Milonoff, Myrsky Virmavirta<br><span style="color: #740ccd;">Actors</span> Aamu Milonoff, Jasir Osman, Petteri Lassila, Meri Luukkanen, Ville Vuorikoski, Antti Virmavirta</span></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Vieras, 2024</title>
-        <author>
-            <name>Satu</name>
-        </author>
-        <link href="https://satumuurinen.com/vieras.html"/>
-        <id>https://satumuurinen.com/vieras.html</id>
-        <media:content url="https://satumuurinen.com/media/posts/4/fb4ef8b1-2.jpg" medium="image" />
-
-        <updated>2025-12-28T18:55:05+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://satumuurinen.com/media/posts/4/fb4ef8b1-2.jpg" alt="" />
-                    Directing Arman Zafari Screenwriting Veikko Timonen, Arman Zafari Cinematography Arttu Liimatta Sound&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://satumuurinen.com/media/posts/4/fb4ef8b1-2.jpg" class="type:primaryImage" alt="" /></p>
-                <div>
-<p class="align-center"><span style="color: #740ccd;">Directing</span><span style="font-size: inherit;"> Arman Zafari</span></p>
-</div>
-<div class="align-center"><span class="p"><span style="color: #740ccd;">Screenwriting </span>Veikko Timonen, Arman Zafari</span><br><span class="p"><span style="color: #740ccd;">Cinematography </span>Arttu Liimatta</span><br><span class="p"><span style="color: #740ccd;">Sound design</span> Pääsky Piikkilä</span><br><span class="p"><span style="color: #740ccd;">Editing</span> Jesse Lähilehto</span><br><span class="p"><span style="color: #740ccd;">Set design</span> Amanda Wirén, Sara Petterson</span><br><span class="p"><span style="color: #740ccd;">Costume design </span>Satu Muurinen</span><br><span class="p"><span style="color: #740ccd;">MUAH </span>Laura Torkkola</span><br><span class="p"><span style="color: #740ccd;">Production</span> Sakri Arkimies</span><br><span class="p"><span style="color: #740ccd;">Actors</span> Heidi Herala, Dennis Nylund, Jonnakaisa Risto, Petri Knuuttila, Moona Elorinne</span></div>
-<div>
-<div id="gallery05" class="gallery-component instance-5 full screen">
-<div class="inner align-center"> </div>
-</div>
-</div>
-<h1><br><br></h1>
             ]]>
         </content>
     </entry>

@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://satumuurinen.com/autopsia-tyttoejen-vaelisestae-ystaevyydestae-upcoming.html",
+            "url": "https://satumuurinen.com/autopsia-tyttoejen-vaelisestae-ystaevyydestae-upcoming.html",
+            "title": "Autopsia tyttöjen välisestä ystävyydestä - UPCOMING",
+            "summary": "Semiköyhä Salaseura Evita Aaltonen, Satu Muurinen, Clarissa Rosi, Roosa Vuokkola support us:&hellip;",
+            "content_html": "<p class=\"align-center\"><span style=\"color: #740ccd;\">Semiköyhä Salaseura</span> Evita Aaltonen, Satu Muurinen, Clarissa Rosi, Roosa Vuokkola</p>\n<p class=\"align-center\"><span style=\"color: #740ccd;\">support us: </span></p>\n<p class=\"align-center\">https://mesenaatti.me/4195/autopsia-tyttojen-valisesta-ystavyydesta-nayttamoteos/</p>",
+            "image": "https://satumuurinen.com/media/posts/16/Juliste_ig_edit.jpg",
+            "author": {
+                "name": "Satu"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-18T21:23:56+02:00",
+            "date_modified": "2026-03-18T21:25:32+02:00"
+        },
+        {
             "id": "https://satumuurinen.com/rebekka-holi-paeaessaeni-on-koira.html",
             "url": "https://satumuurinen.com/rebekka-holi-paeaessaeni-on-koira.html",
             "title": "Päässäni on koira, 2025",
@@ -23,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2026-01-08T18:44:45+02:00",
-            "date_modified": "2026-01-08T21:40:56+02:00"
+            "date_modified": "2026-03-18T21:25:13+02:00"
         },
         {
             "id": "https://satumuurinen.com/costume-sketches.html",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2026-01-07T14:53:54+02:00",
             "date_modified": "2026-01-08T21:41:10+02:00"
-        },
-        {
-            "id": "https://satumuurinen.com/vieras.html",
-            "url": "https://satumuurinen.com/vieras.html",
-            "title": "Vieras, 2024",
-            "summary": "Directing Arman Zafari Screenwriting Veikko Timonen, Arman Zafari Cinematography Arttu Liimatta Sound&hellip;",
-            "content_html": "<div>\n<p class=\"align-center\"><span style=\"color: #740ccd;\">Directing</span><span style=\"font-size: inherit;\"> Arman Zafari</span></p>\n</div>\n<div class=\"align-center\"><span class=\"p\"><span style=\"color: #740ccd;\">Screenwriting </span>Veikko Timonen, Arman Zafari</span><br><span class=\"p\"><span style=\"color: #740ccd;\">Cinematography </span>Arttu Liimatta</span><br><span class=\"p\"><span style=\"color: #740ccd;\">Sound design</span> Pääsky Piikkilä</span><br><span class=\"p\"><span style=\"color: #740ccd;\">Editing</span> Jesse Lähilehto</span><br><span class=\"p\"><span style=\"color: #740ccd;\">Set design</span> Amanda Wirén, Sara Petterson</span><br><span class=\"p\"><span style=\"color: #740ccd;\">Costume design </span>Satu Muurinen</span><br><span class=\"p\"><span style=\"color: #740ccd;\">MUAH </span>Laura Torkkola</span><br><span class=\"p\"><span style=\"color: #740ccd;\">Production</span> Sakri Arkimies</span><br><span class=\"p\"><span style=\"color: #740ccd;\">Actors</span> Heidi Herala, Dennis Nylund, Jonnakaisa Risto, Petri Knuuttila, Moona Elorinne</span></div>\n<div>\n<div id=\"gallery05\" class=\"gallery-component instance-5 full screen\">\n<div class=\"inner align-center\"> </div>\n</div>\n</div>\n<h1><br><br></h1>",
-            "image": "https://satumuurinen.com/media/posts/4/fb4ef8b1-2.jpg",
-            "author": {
-                "name": "Satu"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-12-28T18:55:05+02:00",
-            "date_modified": "2026-01-08T21:41:03+02:00"
         }
     ]
 }
